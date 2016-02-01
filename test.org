@@ -1,0 +1,42 @@
+Goals and projects to get us there.
+
+* Vision for us
+
+The big objectives are as follows. 
+
+ - To explore inclusive community development business models, arrive upon something that works, and scale it.
+ - To develop a CSR consulting business and use it to promote system-based interventions. That is, ensure the development of an ecosystem that works together to sustain itself rather than sporadic and individual attempts to solve a social problem.
+ - To develop a commercial strategy consulting model integrated with investment and funding consulting so that we provide early stage and growth companies an ongoing solution. We need to develop frameworks here so that we can understand what exactly are the types of solutions we provide. 
+
+We also have a liquidity issue, and we are constrained because we want to maintain our team even though there is no particular need to maintain them today. We have a commitment to them. In order to keep them we have to find profitable ways of employing them.
+
+* The liquidity issue
+ - We have running costs of around Rs. 3 lakhs per month. This includes our living expenses of around Rs. 1.2 lakhs and office expenses of Rs. 2 lakhs per month. The largest expense here is the salary expense, since we are paying Manoj and Vishal the equivalent of what they were making in Svasti.
+ - We have to come up with a way to generate Rs. 3 lakhs per month with some revenue streams while we explore and develop the grand objective items.
+ - We have explored various options as short-term money generating schemes, but in general nothing has worked out. We have learned a great deal from our attempts though. Now we have to still look at some things that will generate income for the time before we get funds from the grand objectives.
+
+* Options to generate short-term funds
+** Insurance
+*** Life insurance
+Life insurance and ULIPs are the money spinners of insurance. Dhaval feels that this is where we should focus.
+*** Commercial insurance - large vehicles in Mumbai
+The great thing about vehicles is that insurance is mandatory. So our job is to convince people to take insurance from us as opposed to where they usually do. With commercial vehicles there is someone who is running the show who has to be convinced that there is something in it for them to get the fleet to make the switch. So the business model is as follows. 
+
+ - All commercial vehicles have to get insured. Usually it is only Third-Party insurance.
+ - Our basic assumption is that we can get insurance online on the Fingoole platform cheaper than the insurance that the vehicle currently has.
+ - We talk to people who control the insurance behavior of fleets. We understand the models in the fleet. We verify that we can get insurance cheaper than they can.
+ - Based on the commissions we offer the controller a cut.
+ - We have to find a way to get copies of the current insurance policies of all vehicles in the fleet.
+ - At the right time we should get comparison quotes out and contact the vehicle owners to remind them about renewing their insurance, and give them our quote.
+ - We work with them to renew their insurance on our platform and get them the new policy document as a printout.
+**** TODO Prepare a business model canvas for insuring large commercial vehicles in Mumbai
+     SCHEDULED: <2016-01-30 Sat>
+
+*** Rural vehicle insurance
+From our Raigad experience, we have seen that in many rural areas, there are commercial vehicles that need insurance, but they have to travel long distances to get it. And they have access only to offline insurance. We can provide them with access to online insurance at lower cost. The problem here is the logistics - how do we get information on current policies from them, how do we receive money from them, and how do we send the policy document to them? As in the commercial vehicle case, there are people who control fleets and unions. We will look to strike deals with them. 
+
+**** TODO Prepare a business model canvas for rural vehicle insurance 
+     SCHEDULED: <2016-01-31 Sun>
+
+** Education and school digitization
+In Maharashtra, the schools are not as digitized as in TN, where Kannan of Vaijayanthi Vidyalaya presented a picture of high digitization. There is an opportunity to provide software solutions to schools. The system as we have understood it so far is this. 
